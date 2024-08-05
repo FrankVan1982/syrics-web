@@ -9,7 +9,7 @@ body {
 	-moz-animation: gradientAnimate 60s ease infinite;
 	-o-animation: gradientAnimate 60s ease infinite;
 	animation: gradientAnimate 60s ease infinite;
-	/* font-family: Source Sans Pro, sans-serif; */
+	font-family: "Source Sans Pro", sans-serif;
 	width: 100%;
 	height: 100%;
 }
